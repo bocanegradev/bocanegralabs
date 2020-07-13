@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, welcome lo my labs! 👋
+
+This is a space to share some experiments with code, and tech. Feel free to comment and give your opinions :)
 
 <!--
 **bocanegralabs/bocanegralabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
