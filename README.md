@@ -1,8 +1,8 @@
-### Welcome to <strong>bocanegralabs</strong>! 🤖<hr>
+### Welcome to bocanegralabs! 🤖<hr>
 
 This is a space to share some experiments with code, and tech. Feel free to comment and give your opinions :)<hr>
 
-Hi! I'm Lukas Bocanegra. I'm Technologist in System Analysis and Development, and a Systems Egineering student. I like tech knoweldge, and learning.
+Hey! I'm Lukas Bocanegra. I'm Technologist in System Analysis and Development, and a Systems Egineering student. I like tech knoweldge, and learning.
 Right now, I'm focusing in learn Web Development.
 
 ### Here are some links you can visit:
