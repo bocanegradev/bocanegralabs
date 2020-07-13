@@ -7,7 +7,7 @@ Right now, I'm focusing in learn Web Development.
 
 ### Here are some links you can visit:
 <ul>
-  <li>Visit my development thoughs on <a href="https://dev.to/bocanegralabs">DEV</a> 💻💡</li>
+  <li>Visit my development and tech thoughs on <a href="https://dev.to/bocanegralabs">DEV</a> 💻💡</li>
   <li>Visit my favorite pictures on <a href="https://www.instagram.com/bocanegralabs/">Instagram</a> 🌄</li>
   <li>Visit random thoughs on <a href="https://twitter.com/bocanegralabs">Twitter</a> 🐦</li>
 </ul>
