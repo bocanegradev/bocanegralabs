@@ -13,7 +13,7 @@ Right now, I'm focusing in learn Web Development.
   <br/>
   [![Web](https://img.shields.io/badge/WWW-My%20personal%20website-86c232?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)](https://bocanegralabs.ga)
   <br/>
-  [![Dev](https://img.shields.io/badge/DEV-My%20development%20and%20tech%20thoughs-1a2634?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0a0a0a)](https://dev.to/bocanegralabs)
+  [![Dev](https://img.shields.io/badge/DEV-My%20development%20and%20tech%20thoughs-1a2634?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://dev.to/bocanegralabs)
   <br/>
   [![Twitter](https://img.shields.io/badge/Twitter-Random%20thoughs-1da1f2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/bocanegralabs)
   <br/>
