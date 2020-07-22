@@ -1,4 +1,4 @@
-### Welcome to bocanegralabs! 🤖<hr>
+## Welcome to bocanegralabs! 🤖<hr>
 
 This is a space to share some experiments with code, and tech. Feel free to comment and give your opinions :)<hr>
 
@@ -6,8 +6,6 @@ Hey! I'm Lukas Bocanegra. I'm Technologist in System Analysis and Development, a
 Right now, I'm focusing in learn Web Development.
 
 ## Here are some links you can visit:
-[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
-<ul>
 <!--   <li>Visit my development and tech thoughs on <a href="https://dev.to/bocanegralabs">DEV</a> 💻💡</li>
   <li>Visit my favorite pictures on <a href="https://www.instagram.com/bocanegralabs/">Instagram</a> 🌄</li>
   <li>Visit random thoughs on <a href="https://twitter.com/bocanegralabs">Twitter</a> 🐦</li> -->
@@ -18,4 +16,3 @@ Right now, I'm focusing in learn Web Development.
   [![Twitter](https://img.shields.io/badge/Twitter-Random%20thoughs-1da1f2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/bocanegralabs)
   <br/>
   [![Instagram](https://img.shields.io/badge/Instagram-My%20favorite%20pics-a635a6?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/bocanegralabs)
-</ul>
