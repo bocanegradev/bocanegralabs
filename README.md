@@ -5,7 +5,8 @@ This is a space to share some experiments with code, and tech. Feel free to comm
 Hey! I'm Lukas Bocanegra. I'm Technologist in System Analysis and Development, and a Systems Egineering student. I like tech knoweldge, and learning.
 Right now, I'm focusing in learn Web Development.
 
-### Here are some links you can visit:
+## Here are some links you can visit:
+[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 <ul>
 <!--   <li>Visit my development and tech thoughs on <a href="https://dev.to/bocanegralabs">DEV</a> 💻💡</li>
   <li>Visit my favorite pictures on <a href="https://www.instagram.com/bocanegralabs/">Instagram</a> 🌄</li>
