@@ -1,4 +1,4 @@
-## Welcome to bocanegralabs! 🤖<hr>
+## Welcome to bocanegralabs! 🤖
 
 This is a space to share some experiments with code, and tech. Feel free to comment and give your opinions :)<hr>
 
@@ -11,7 +11,7 @@ Right now, I'm focusing in learn Web Development.
   <li>Visit random thoughs on <a href="https://twitter.com/bocanegralabs">Twitter</a> 🐦</li> -->
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-My%20professional%20profile-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/bocanegralabs)
   <br/>
-  [![Web](https://img.shields.io/badge/DEV-My%20development%20and%20tech%20thoughs-0a0a0a?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0a0a0a)](https://dev.to/bocanegralabs)
+  [![Web](https://img.shields.io/badge/DEV-My%20development%20and%20tech%20thoughs-1a2634?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0a0a0a)](https://dev.to/bocanegralabs)
   <br/>
   [![Twitter](https://img.shields.io/badge/Twitter-Random%20thoughs-1da1f2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/bocanegralabs)
   <br/>
