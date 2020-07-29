@@ -1,4 +1,4 @@
-## Welcome to bocanegralabs! 🤖
+## Welcome to @bocanegralabs! 🤖
 
 Hey! I'm Lukas Bocanegra. I'm Technologist in System Analysis and Development, and a Systems Egineering student. I like tech knoweldge, and learning.
 Right now, I'm focusing in learn Web Development.
