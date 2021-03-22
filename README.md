@@ -1,7 +1,6 @@
 ## Welcome to @bocanegralabs! 🤖
 
-Hey! I'm Lukas Bocanegra. I'm Technologist in System Analysis and Development, and a Systems Egineering student. I like tech knoweldge, and learning.
-Right now, I'm focusing in learn Web Development.
+Hey! I'm Lukas Bocanegra. I'm Technologist in System Analysis and Development, and a Systems Egineering student. I like tech knoweldge, dev, music, and space stuff.
 <hr/>
 This is a space to share some experiments with code, and tech. Feel free to comment and give your opinions :)
 
