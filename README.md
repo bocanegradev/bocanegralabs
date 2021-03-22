@@ -9,11 +9,11 @@ This is a space to share some experiments with code, and tech. Feel free to comm
 <!--   <li>Visit my development and tech thoughs on <a href="https://dev.to/bocanegralabs">DEV</a> 💻💡</li>
   <li>Visit my favorite pictures on <a href="https://www.instagram.com/bocanegralabs/">Instagram</a> 🌄</li>
   <li>Visit random thoughs on <a href="https://twitter.com/bocanegralabs">Twitter</a> 🐦</li> -->
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-My%20professional%20profile-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/bocanegralabs)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20profile-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/bocanegralabs)
   <br/>
-  [![Web](https://img.shields.io/badge/WWW-My%20personal%20website-05cb65?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)](https://bocanegralabs.ga)
+  [![Web](https://img.shields.io/badge/WWW-Personal%20website-05cb65?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)](https://bocanegralabs.ga)
   <br/>
-  [![Dev](https://img.shields.io/badge/DEV-My%20development%20and%20tech%20thoughs-1a2634?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://dev.to/bocanegralabs)
+  [![Dev](https://img.shields.io/badge/DEV-Development%20and%20tech%20thoughs-1a2634?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://dev.to/bocanegralabs)
   <br/>
   [![Twitter](https://img.shields.io/badge/Twitter-Random%20thoughs-1da1f2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/bocanegralabs)
   <br/>
